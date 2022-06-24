@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Pepe/3rd semester/DS/Cpepe/Semester Project/main.cpp
+iostream
+-
+iomanip
+-
+fstream
+F:/Pepe/3rd semester/DS/Cpepe/Semester Project/fstream
+cstring
+F:/Pepe/3rd semester/DS/Cpepe/Semester Project/cstring
+

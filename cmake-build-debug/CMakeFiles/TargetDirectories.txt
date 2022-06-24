@@ -1,0 +1,3 @@
+F:/Pepe/3rd semester/DS/Cpepe/Semester Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Pepe/3rd semester/DS/Cpepe/Semester Project/cmake-build-debug/CMakeFiles/Semester_Project.dir
+F:/Pepe/3rd semester/DS/Cpepe/Semester Project/cmake-build-debug/CMakeFiles/edit_cache.dir
